@@ -6,4 +6,4 @@ A full description of the problem is available here: https://ocw.mit.edu/courses
 
 
 **Example output**
-![test image size](images/fig-13png){:class="img-responsive"}
+![test image size](../..images/fig-2.png){:class="img-responsive"}
