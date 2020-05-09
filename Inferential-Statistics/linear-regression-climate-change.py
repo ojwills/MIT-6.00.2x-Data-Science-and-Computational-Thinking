@@ -1,8 +1,3 @@
-"""
-A basic regression model to find evidence of climate change in cities in the USA
-
-A full description of the problems is availble here: https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/assignment-2/
-"""
 import numpy as np
 import pylab
 import re
