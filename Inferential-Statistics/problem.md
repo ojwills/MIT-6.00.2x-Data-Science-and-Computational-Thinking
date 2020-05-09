@@ -5,6 +5,6 @@ The script uses linear regression to identify evidence of climate change in long
 A full description of the problems is availble here: https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/assignment-2/
 
 **Example output**<br>
-![test image size](../images/fig-1.png){:class="img-responsive"}
+![test image size](../images/fig-1.png)
 
 
